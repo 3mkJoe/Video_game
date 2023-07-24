@@ -29,6 +29,6 @@ Message us on whatsapp you have the number 😉
 
 Contributors names
 
-*Ahmad sherif
-*Hamza tamer
-*Yousef ammar
+* Ahmad sherif
+* Hamza tamer
+* Yousef ammar
