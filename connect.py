@@ -1,0 +1,7 @@
+DATABASE_TYPE = "mysql"
+USERNAME = "root"
+PASSWORD = "2910"
+HOST = "localhost"
+PORT = "3306"
+DB_NAME = "video games"
+DB_URl = f"{DATABASE_TYPE}://{USERNAME}:{PASSWORD}@{HOST}:{PORT}/{DB_NAME}"
