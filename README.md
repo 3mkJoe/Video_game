@@ -30,5 +30,11 @@ Message us on whatsapp you have the number 😉
 Contributors names
 
 * Ahmad sherif
+* Youssef ammar
 * Hamza tamer
-* Yousef ammar
+
+Discord server : (steps)
+https://discord.gg/Txm9Yvg2Gf
+
+Records of the project on Mega :
+https://mega.nz/folder/8ucWVZLT#zd9R1bPJd1KS5b82qrEEBw
